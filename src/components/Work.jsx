@@ -18,7 +18,7 @@ const Work = () => {
         <div className="work__boxes">
           <div className="work__box">
             <div className="work__text">
-              <h3>Rent a Van</h3>
+              <h3>#VANLIFE</h3>
               <p>React-SPA for Van rental</p>
               <ul className="work__list">
                 <li>HTML</li>

@@ -26,7 +26,6 @@ const Header = () => {
         </nav>
       </div>
       <div className="header__text-box row">
-        <img src={Portrait} alt="Portrait" className="header__portrait" />
         <div className="header__text">
           <h1 className="heading-primary">
             <span>Johannes Schulte</span>
@@ -36,6 +35,7 @@ const Header = () => {
             Get in touch
           </a>
         </div>
+        <img src={Portrait} alt="Portrait" className="header__portrait" />
       </div>
     </header>
   );
