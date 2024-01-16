@@ -22,7 +22,11 @@ const About = () => {
               others to thrive.
             </p>
             {/* <!-- Insert a link to resume --> */}
-            <a href="#" className="btn">
+            <a
+              href="https://www.linkedin.com/in/johannes-schulte-32a492268/details/certifications/"
+              target="_blank"
+              className="btn"
+            >
               My Resume
             </a>
           </div>
