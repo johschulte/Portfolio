@@ -21,7 +21,7 @@ const About = () => {
               effective communication skills that promote teamwork and empower
               others to thrive.
             </p>
-            <a href="../LebenslaufWebsite.pdf" target="_blank" className="btn">
+            <a href="../LebenslaufOnline.pdf" target="_blank" className="btn">
               My Resume
             </a>
           </div>
