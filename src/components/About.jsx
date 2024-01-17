@@ -1,5 +1,5 @@
 import React from "react";
-import portaitabout from "../assets/portraitaboutzen.png";
+import portaitabout from "../assets/portraitaboutzent.png";
 
 const About = () => {
   return (
