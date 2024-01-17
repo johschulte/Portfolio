@@ -21,12 +21,7 @@ const About = () => {
               effective communication skills that promote teamwork and empower
               others to thrive.
             </p>
-            {/* <!-- Insert a link to resume --> */}
-            <a
-              href="https://www.linkedin.com/in/johannes-schulte-32a492268/details/certifications/"
-              target="_blank"
-              className="btn"
-            >
+            <a href="../LebenslaufWebsite.pdf" target="_blank" className="btn">
               My Resume
             </a>
           </div>
