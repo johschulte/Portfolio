@@ -8,7 +8,6 @@ import BackToTop from "./components/BackToTop";
 
 function App() {
   const [isBackToTopRendered, setIsBackToTopRendered] = useState(false);
-  const [favicon, setFavicon] = React.useState("./assets/favicon.io");
 
   const checkScroll = () => {
     if (window.scrollY > 700) {
