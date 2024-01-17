@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { FaGithub } from "react-icons/fa";
-import VanAppA from "../assets/VanAppA.jpg";
-import HackerNews from "../assets/HackerNews.jpg";
-import done from "../assets/done.jpg";
+import VANLIFE from "../assets/VANLIFE.png";
+import HackerNews from "../assets/Hackernews.png";
+import done from "../assets/done.png";
 
 const Work = () => {
   const [iconSize, setIconSize] = useState(3);
@@ -49,7 +49,7 @@ const Work = () => {
                 href="https://flourishing-lily-58498b.netlify.app"
                 target="_blank"
               >
-                <img src={VanAppA} className="work__image" alt="Project 1" />
+                <img src={VANLIFE} className="work__image" alt="Project 1" />
               </a>
             </div>
           </div>
