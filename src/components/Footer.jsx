@@ -16,7 +16,7 @@ const Footer = () => {
           </li>
           <li className="footer__social-link-item">
             <a
-              href="https://www.linkedin.com/in/johannes-schulte-32a492268"
+              href="https://www.linkedin.com/in/johannes-schulte-dev"
               title="Link to LinkedIn Profile"
             >
               <FaLinkedin size="3rem" />
